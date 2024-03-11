@@ -1,10 +1,10 @@
 1) H Philip, T Snir, M Gordin, M Shugay, A Zilberberg, S Efroni
+   
+   [A T-cell repertoire timestamp is at the core of responsiveness to CTLA-4 blockade](https://www.nature.com/articles/s41597-023-01982-x)
+   
+   iScience (2021)
 
-A T-cell repertoire timestamp is at the core of responsiveness to CTLA-4 blockade
-
-iScience (2021)
-
-2) Nili Tickotsky-Moskovitz, Yoram Louzoun, Shirit Dvorkin, Adi Rotkopf, Amir Asher Kuperman, Sol Efroni
+1) Nili Tickotsky-Moskovitz, Yoram Louzoun, Shirit Dvorkin, Adi Rotkopf, Amir Asher Kuperman, Sol Efroni
 
 CDR3 and V genes show distinct reconstitution patterns in T cell repertoire post-allogeneic bone marrow transplantation
 
