@@ -1,0 +1,9 @@
+/_layouts/
+/.foam/
+/.vscode/
+/assets/
+/attachments/
+/docs/
+/getting-started.md
+/inbox.md
+/todo.md
