@@ -17,7 +17,7 @@ Remote-SSH: Kill VS Code Server on Host
 אחרי שמסיימים לעבוד עם הremote חשוב לבצע יציאה מסודרת באופן הבא:
 ללחוץ על הסימן של הremote מצד שמאל למטה, להלן מה שמסומן בתכלת:
 
-![alt text](image-1.png)
+![alt text](Scripts/image-1.png)
 
 ואז ללחוץ close remote connection 
 
@@ -30,7 +30,7 @@ Remote-SSH: Kill VS Code Server on Host
 - לחפש בהגדרות local server ולהוריד את הוי מההגדרה הבאה:
 
 
-![alt text](image-3.png)
+![alt text](Scripts/image-3.png)
 
 1) לבצע את שלב מספר 1 מלמעלה, להלן תזכורת
 ללחוץ ctrl +shift+p 
