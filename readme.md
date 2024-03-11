@@ -12,12 +12,4 @@
 This Github-Wiki page is an internal 
 
 
-TCR
-: CDR3 
-
-new
-
-That is so funny! :joy:
-
-I need to highlight these ==very important words==.
 

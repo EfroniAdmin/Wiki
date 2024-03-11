@@ -17,7 +17,8 @@ Stop the ongoing process.
 
 Once you've completed your tasks with the remote, it's crucial to exit in an organized manner.
 Click on the remote symbol located at the lower left. Below, you'll find what is highlighted in 
+
 <span style="color:blue">light blue : </span>
 ![alt text](vs_cdoe_pass.png)
 
-**Than click on close remote connection**
+**Then click on close remote connection**
