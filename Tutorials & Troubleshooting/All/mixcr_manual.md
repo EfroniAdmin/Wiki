@@ -9,7 +9,7 @@
 
 ## About ##
 
-![Getting Started](image-1.png)
+![Getting Started](mixcr1.png)
 
 
 
@@ -27,7 +27,7 @@ The whole analytical pipeline can be conducted as easy as one line. Few examples
 
 ### MiXCR Pipeline (under the hood) ### 
 
-![MiXCR pipeline](image-2.png)
+![MiXCR pipeline](mixcr2.png)
 
 
 
@@ -174,7 +174,7 @@ in your experiment.
 
 usage example for preset ("SMARTer Human TCR a/b Profiling Kit v2")
 
-![SMARTer Human TCR a/b Profiling Kit v2](image-3.png)
+![SMARTer Human TCR a/b Profiling Kit v2](mixcr3.png)
 
 code:
 
