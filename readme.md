@@ -1,5 +1,5 @@
 
-![alt text](image.png)
+![alt text](Basic_Knowledge/All/efroni.png)
 ## Welcome Onboard!
 
 In the lab, we study two sources of biological data: Tumor cells and T cells. <br>
