@@ -1,4 +1,4 @@
-# Fastqc,Bam and Sam files 
+# Fastq,Bam and Sam files 
 
 The output of the sequencing machine is a fastq file with the following structure:
 ![alt text](bam1.png)
