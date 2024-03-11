@@ -7,6 +7,6 @@ shotgun and RNA-Seq libraries, various single cell technologies and is flexible 
 ## Troubleshooting ###
 
 #### Linux-server
-1. [VS-code - stuck in password level loop](/Tutorials%20&%20Troubleshooting/All/Stuck_Password_Issue_in_VS_Code.md/Stuck_Password_Issue_in_VS_Code.md)
+1. [VS-code - stuck in password level loop](/Tutorials%20&%20Troubleshooting/All/Stuck_Password_Issue_in_VS_Code.md)
 
-2. [VS-code - debug with args](/Tutorials%20&%20Troubleshooting/All/Debuging_with_Args_in_VS_Code.md/Debug_With_Args_in_VS_Code.md)
+2. [VS-code - debug with args](/Tutorials%20&%20Troubleshooting/All/Debuging_with_Args_in_VS_Code.md)
