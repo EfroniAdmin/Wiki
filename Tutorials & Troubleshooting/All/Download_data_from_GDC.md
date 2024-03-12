@@ -1,6 +1,6 @@
 # Download controlled data from GDC:
 The GDC contains NCI-generated data from some of the largest and most comprehensive cancer genomic datasets, including The Cancer Genome Atlas (TCGA) and Therapeutically Applicable Research to Generate Effective Therapies (TARGET).
-How to do that ?
+How to download data from GDC ?
 1.	To download data from GDC, install the GDC client on the server. Here are the instructions:
 https://gdc.cancer.gov/access-data/gdc-data-transfer-tool
 <br> Another option is to use Docker: <br> https://hub.docker.com/r/mgibio/gdc-client
