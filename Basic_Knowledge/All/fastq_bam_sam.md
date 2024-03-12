@@ -1,6 +1,6 @@
 # Fastq,Bam and Sam files 
 
-The output of the sequencing machine is a fastq file with the following structure:
+The output of the sequencing machine is a fastq file with the following structure: <br>
 ![alt text](bam1.png)
 Each line consists of 150 bases called "reads."
 First line - Read name, which machine it came from.
