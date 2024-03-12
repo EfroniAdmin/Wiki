@@ -13,7 +13,7 @@ https://portal.gdc.cancer.gov/
 To download the data on the server, please select the 'Download Manifest File' option. 
 <br>
 ![alt text](gdc2.png)
-
+<br>
 4.	Copy the manifest file to the server using WinSCP, or create a new file on the server and paste the content of the manifest file from your local PC into the new file on the server.
 
 5.	Run this command on server: <br>
