@@ -1,31 +1,17 @@
 
-![alt text](image.png)
+![alt text](About_Us/All/efroni.png)
 ## Welcome Onboard!
 
+>In the lab, we study two sources of biological data: Tumor cells and T cells. <br>
+We are mostly (although not exclusively) interested in high-throughput data. <br>
+Such data allows us to use our strengths, which are in quantitative biology.<br>
+ We therefore use these data and produce these data to then utilize data-science methods such as machine learning and network biology to find interesting, novel, insights, that may end-up helping human health.
+ 
 
-Welcome to our lab's internal GitHub Wiki page dedicated to data sharing and collaboration!  
-Here, we dive into the intricate world of biological data, focusing on two primary sources:  
-tumor cells and T cells. As a team, we are driven by a passion for exploring high-throughput data,  
-which serves as the cornerstone of our research endeavors.
+>[People](/About_Us/All/people.md)
 
-Within this page, you can find various topics essential to our work:
+This Github-Wiki page is an internal 
 
-[Basics](/Basics/): Fundamental concepts and background information to help you navigate the complexities of biological data analysis.  
-
-[Tutorials & Troubleshooting](/Tutorials%20&%20Troubleshooting/): Step-by-step guides and troubleshooting tips to assist you in your data analysis journey.  
-
-[Useful Scripts](/Useful%20Scripts/): Collection of scripts and codes developed by our team to streamline data processing and analysis tasks.
-
-
-[Tools](/Tools/): Overview of software tools and platforms commonly utilized in our research projects.
-
-[Student Repositories](/Student%20Repos/): Dedicated space for students to showcase their projects collaborate with peers,  
-and contribute to the collective knowledge base of the lab.
-
-[Publications](/Publications/): Access to our lab's published works, including research articles, conference papers,  
-and other scholarly contributions.
-
-Good Luck. 🤙🏼
 
 
 
