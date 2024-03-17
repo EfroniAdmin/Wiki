@@ -1,2 +1,4 @@
 ## Useful scripts ##
+
 1. [Quality check](/Useful_Scripts/All/fastqc.sh) - "FastQC aims to provide a simple way to do some quality control checks on raw sequence data coming from high throughput sequencing pipelines. It provides a modular set of analyses which you can use to give a quick impression of whether your data has any problems of which you should be aware before doing any further analysis." This script utilizes FASTQC within a Docker container. **Please note that you need to adjust the global variables to match your working directory**.
+
