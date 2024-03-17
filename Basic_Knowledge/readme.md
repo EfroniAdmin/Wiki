@@ -1,2 +1,3 @@
 ## Badic knowledge ##
-1. [Fastq file, Bam file and Sam file - what they are? ](/Basic_Knowledge/All/fastq_bam_sam.md) - This section is crafted to provide insight into the meaning and distinctions among various file types frequently utilized in the field of bioinformatics, including fastq, bam, and sam files.
+This section is divided into two parts:<br>
+ The first part focuses on biological knowledge related to subjects such as sequencing, the immune system, and TCR (T-cell receptor), while the second part pertains to computational knowledge.
